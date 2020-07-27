@@ -13,6 +13,11 @@ I used to be really good at developing iOS apps, but then I realized that I'm mo
 
 I currently live in Beijing, China, where I work as a product lead at TaiHuoNiao. When I'm not working, I like to take pictures and play with my Switch and PS4.
 
+---
+
+### Contact Me. 💬
+[E-mail](flyang163@gmail.com) / [Twitter](https://twitter.com/fynnyang) / [Instagram](https://www.instagram.com/ins.fynn/) / [Telegram](https://t.me/yyoung)
+
 <!--
 **FFynn/FFynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
