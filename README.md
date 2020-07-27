@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey There, I'm Fynn 👋
+*based in Beijing, China.*
+
+
+### Just a Product Manager. 🔭
+*Working at [TAIHUONIAO](www.taihuoniao.com)*
+
+### And previously did iOS development. 🌱
+*Also wrote a project in Python to generate design posters. 🤔*
 
 <!--
 **FFynn/FFynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
