@@ -8,6 +8,11 @@
 ### And previously did iOS development. 🌱
 *Also wrote a project in Python to generate design posters. 🤔*
 
+---
+I used to be really good at developing iOS apps, but then I realized that I'm more interested in product design (especially after getting more involved with design).
+
+I currently live in Beijing, China, where I work as a product lead at TaiHuoNiao. When I'm not working, I like to take pictures and play with my Switch and PS4.
+
 <!--
 **FFynn/FFynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
