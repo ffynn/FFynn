@@ -3,7 +3,7 @@
 
 
 ### Just a Product Designer. 💎
-*Working at [TAIHUONIAO](www.taihuoniao.com)*
+*Working at [TAIHUONIAO](https://www.taihuoniao.com/home)*
 
 ### And previously did iOS development. 🌱
 *Also wrote a project in Python to generate design posters. 🤔*
