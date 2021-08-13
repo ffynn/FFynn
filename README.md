@@ -16,7 +16,7 @@ I currently live in Beijing, China, where I work as a product lead at TAIHUONIAO
 ---
 
 ### Contact Me. 💬
-[E-mail](flyang163@gmail.com) / [Twitter](https://twitter.com/fynnyang) / [Instagram](https://www.instagram.com/ins.fynn/) / [Telegram](https://t.me/yyoung)
+[E-mail](flyang163@gmail.com) / [Twitter](https://twitter.com/fynnyang) / [Instagram](https://www.instagram.com/hey.fynnnn/) / [Telegram](https://t.me/yyoung)
 
 <!--
 **FFynn/FFynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
