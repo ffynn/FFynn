@@ -2,7 +2,7 @@
 *based in Beijing, China.*
 
 
-### Just a Product Designer. 🔭
+### Just a Product Designer. 💎
 *Working at [TAIHUONIAO](www.taihuoniao.com)*
 
 ### And previously did iOS development. 🌱
