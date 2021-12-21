@@ -1,5 +1,5 @@
 ### Hey There, I'm Fynn 👋
-*based in Beijing, China.*
+*Living in Beijing, China.*
 
 
 ### Just a Product Designer. 💎
