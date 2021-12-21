@@ -3,10 +3,8 @@
 
 
 ### Just a Product Designer. 💎
-*Working at [TAIHUONIAO](https://www.taihuoniao.com/home)*
-
-### And previously did iOS development. 🌱
-*Also wrote a project in Python to generate design posters. 🤔*
+*Working at [TAIHUONIAO Inc](https://www.taihuoniao.com/home)*
+*And previously did iOS development.*
 
 ---
 I used to be really good at developing iOS apps, but then I realized that I'm more interested in product design (especially after getting more involved with design).
