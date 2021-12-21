@@ -8,11 +8,6 @@
 *And previously did iOS development.*
 
 ---
-I used to be really good at developing iOS apps, but then I realized that I'm more interested in product design (especially after getting more involved with design).
-
-I currently live in Beijing, China, where I work as a product lead at TAIHUONIAO. When I'm not working, I like to take pictures and play with my Switch and PS4.
-
----
 
 ### Contact Me. 💬
 [E-mail](flyang163@gmail.com) / [Twitter](https://twitter.com/fynnyang) / [Instagram](https://www.instagram.com/hey.fynnnn/)
