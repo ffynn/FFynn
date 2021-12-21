@@ -3,9 +3,9 @@
 
 
 ### Just a Product Designer. 💎
-*Working at [TAIHUONIAO](https://www.taihuoniao.com/home)Inc.*
+*Working at [TAIHUONIAO](https://www.taihuoniao.com/home) Inc.*
 
-*And previously did iOS development.*
+*Also design, development work.*
 
 ---
 
