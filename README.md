@@ -11,9 +11,7 @@
 
 [Telegram](https://t.me/yyoug) | [E-mail](hey.ffynn@gmail.com)
 
-[Twitter](https://twitter.com/fynnyang) | [Instagram](https://www.instagram.com/hey.fynnnn/)
-
-[Jike](https://web.okjike.com/u/47006A59-E82F-4758-8C60-87AABD881439)
+[Twitter](https://twitter.com/fynnyang) | [Instagram](https://www.instagram.com/hey.fynnnn/) | [Jike](https://web.okjike.com/u/47006A59-E82F-4758-8C60-87AABD881439)
 
 <!--
 **FFynn/FFynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
