@@ -9,7 +9,7 @@
 
 ### Contact Me. 💬
 
-[Telegram](https://t.me/yyoug) | [E-mail](hey.ffynn@gmail.com)
+[Telegram](https://t.me/ffynnn) | [E-mail](hey.ffynn@gmail.com)
 
 [Twitter](https://twitter.com/fynnyang) | [Instagram](https://www.instagram.com/hey.fynnnn/) | [Jike](https://web.okjike.com/u/47006A59-E82F-4758-8C60-87AABD881439)
 
